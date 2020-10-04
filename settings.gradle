@@ -1,2 +1,2 @@
 include ':app'
-rootProject.name = "Spotify Clone"
+rootProject.name = "SpotifyCloneYT"
