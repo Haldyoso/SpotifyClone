@@ -24,8 +24,6 @@ object AppModule {
         RequestOptions()
             .placeholder(R.drawable.ic_image)
             .error(R.drawable.ic_image)
-            .diskCasheStrategy(DiskCacheStrategy.DATA)
-
-
+            .diskCacheStrategy(DiskCacheStrategy.DATA)
     )
 }
